@@ -4,5 +4,5 @@ all:
     nods1:
       ansible_host: 192.168.100.44
       ansible_user: user
-#   9  ansible_password: user!
+#   10  ansible_password: user!
       ansible_ssh_pass: user
